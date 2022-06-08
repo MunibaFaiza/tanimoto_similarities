@@ -8,7 +8,7 @@ Provide the input in the form a CSV file consisting of all smiles provided in a 
 
 This script will calculate similarities and save them in the form of text files and heatmaps. Generated heatmaps will help you visualize the matrix. Sample smiles are provided in 'smiles.csv' file.
 
-### Prerequisites
+### Requirements
 It requires Python3. This script uses RDKit and some additional packages. Install them using the following commands.
 
 ```conda create -c conda-forge -n my-rdkit-env rdkit```
