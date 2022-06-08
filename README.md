@@ -6,7 +6,7 @@ tanimoto_similarities.py script calculates Tanimoto similarities of given molecu
 
 Provide the input in the form a CSV file consisting of all smiles provided in a column under the name, "SMILES". The file can contain other information also.
 
-This script will calculate similarities and save them in the form of text files and heatmaps. Generated heatmaps will help you visualize the matrix. Sample smiles are provided in 'smiles.csv' file.
+This script will calculate similarities and save them in the form of text files and heatmaps. Generated heatmaps will help you visualize the matrix. Sample smiles are provided in the 'smiles.csv' file.
 
 ### Requirements
 It requires Python3. This script uses RDKit and some additional packages. Install them using the following commands.
@@ -22,7 +22,7 @@ It requires Python3. This script uses RDKit and some additional packages. Instal
 ```pip3 install numpy```
 
 ### Usage
-This script consists of two functions. One function calculates the similarity matrix and show the usual heatmap and saves the output file as 'similarities.txt'. The other function calculates the similarity matrix as lower triangular matrix and saves the output file as 'similarities_lower_tri.txt'.
+This script consists of two functions. One function calculates the similarity matrix and shows the usual heatmap and saves the output file as 'similarities.txt'. The other function calculates the similarity matrix as a lower triangular matrix and saves the output file as 'similarities_lower_tri.txt'.
 Run the script as:
 ```$ python3 tanimoto_similarities.py```
 
