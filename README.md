@@ -28,3 +28,4 @@ Run the script as:
 
 
 For more information on this script, read this article:
+https://bioinformaticsreview.com/20220608/tanimoto_similarities-py-a-python-script-to-calculate-tanimoto-similarities-of-multiple-compounds-using-rdkit/
