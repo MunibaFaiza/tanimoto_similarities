@@ -1,0 +1,17 @@
+,Ligand_name,SMILES
+1,idarubicin,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O
+2,bicalutamide,CC(CS(=O)(=O)C1=CC=C(C=C1)F)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O 
+3,teniposide,COC1=CC(=CC(=C1O)OC)[C@H]2[C@@H]3[C@H](COC3=O)[C@@H](C4=CC5=C(C=C24)OCO5)O[C@H]6[C@@H]([C@H]([C@H]7[C@H](O6)CO[C@H](O7)C8=CC=CS8)O)O
+4,camptothecin,CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=CC5=CC=CC=C5N=C4C3=C2)O
+5,JMS-053,C1=CC=C(C=C1)C2=CC3=C(S2)C(=N)C(=O)NC3=O
+6,etoposide,C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@H]3[C@H]4COC(=O)[C@@H]4[C@@H](C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O
+7,azt,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO)N=[N+]=[N-]
+8,naproxen,C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O 
+9,indoxyl sulfate,C1=CC=C2C(=C1)C(=CN2)OS(=O)(=O)O
+10,ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+11,diazepam,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3
+12,oxyphenbutazone,CCCCC1C(=O)N(N(C1=O)C2=CC=C(C=C2)O)C3=CC=CC=C3
+13,CMPF,CCCC1=C(C(=C(O1)CCC(=O)O)C(=O)O)C
+14,azapropazone,CCCC1C(=O)N2C3=C(C=CC(=C3)C)N=C(N2C1=O)N(C)C
+15,diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O
+16,warfarin,CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O
