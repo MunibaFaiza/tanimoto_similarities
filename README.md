@@ -11,6 +11,8 @@ Another script tanimoto_similarities_one_vs_all.py calculates tanimoto similarit
 
 sdftosmi.py script will convert molecules in sdf format into their corresponding SMILES. All molecules are provided in a single SDF file as input.
 
+smitostr.py will convert smiles to structure.
+
 ### Requirements
 It requires Python3. This script uses RDKit and some additional packages. Install them using the following commands.
 
@@ -33,9 +35,7 @@ OR
 
 ```$ python3 tanimoto_similarities_one_vs_all.py```
 
-OR
 
-```$ python3 sdftosmi.py <filename>```
 
 For more information on this script, read this article:
 https://bioinformaticsreview.com/20220608/tanimoto_similarities-py-a-python-script-to-calculate-tanimoto-similarities-of-multiple-compounds-using-rdkit/
